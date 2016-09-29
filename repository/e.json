@@ -1346,6 +1346,16 @@
 					"tags": true
 				}
 			]
+		},
+		{
+			"name": "Envoy Utilities",
+			"details": "https://julien_saab_AI@bitbucket.org/julien_saab_AI/envoy-utilities-plugin-prod",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
 		}
 	]
 }
